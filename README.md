@@ -4,4 +4,4 @@
 
 -7 years ago I started studying programming
 
--I have experience in python, javascript, unreal engine, unity and C
+-I have experience in python, javascript, unreal engine, unity, C and C++
